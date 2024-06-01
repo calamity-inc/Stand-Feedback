@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for Stand
 title: ''
-labels: ''
+labels: feature request
 assignees: ''
 
 ---
